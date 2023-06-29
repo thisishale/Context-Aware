@@ -1,7 +1,9 @@
 This repo contains the implementation of our paper:
 
 Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer"
+
 Haleh Damirchi, Michael Greenspan, Ali Etemad
+
 **ICIP 2023**  
 [[paper](https:...)]
 
@@ -39,6 +41,7 @@ References:
 
 
 https://github.com/jadore801120/attention-is-all-you-need-pytorch
+
 https://github.com/ChuhuaW/SGNet.pytorch
 
 # Citation
