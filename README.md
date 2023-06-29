@@ -1,6 +1,6 @@
 This repo contains the implementation of our paper:
 
-# Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer"
+## Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer"
 
 Haleh Damirchi, Michael Greenspan, Ali Etemad
 
