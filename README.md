@@ -8,9 +8,7 @@ Haleh Damirchi, Michael Greenspan, Ali Etemad
 [[paper](https:...)]
 
 ## Dataset
-1. Please download the PIE dataset from the following link:
-
-[PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
+1. Please download the PIE dataset from the following link:  [PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 
 2. Modify the directories at configs/pie to reflect your directory containing the dataset.
 
