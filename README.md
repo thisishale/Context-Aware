@@ -9,7 +9,7 @@ Haleh Damirchi, Michael Greenspan, Ali Etemad
 
 ## Overview
 
-![results](https://github.com/thisishale/Context-Aware/tree/main/image/method.png)
+![results](https://github.com/thisishale/Context-Aware/tree/main/image/method.jpg)
 
 We propose a novel solution for predicting future trajecto
 ries of pedestrians. Our method uses a multimodal encoder-
