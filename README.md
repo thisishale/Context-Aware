@@ -57,7 +57,7 @@ https://github.com/ChuhuaW/SGNet.pytorch
 
 # Citation
 If you find our work useful in your research, please cite our paper:
-
+```bibtex
 @inproceedings{damirchi2023context,
   title={Context-aware pedestrian trajectory prediction with multimodal transformer},
   author={Damirchi, Haleh and Greenspan, Michael and Etemad, Ali},
@@ -66,3 +66,4 @@ If you find our work useful in your research, please cite our paper:
   year={2023},
   organization={IEEE}
 }
+```
