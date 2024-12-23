@@ -5,7 +5,7 @@ This repo contains the implementation of our paper:
 Haleh Damirchi, Michael Greenspan, Ali Etemad
 
 **ICIP 2023**  
-[[paper](https:...)]
+[[paper](https://arxiv.org/pdf/2307.03786)]
 
 ## Overview
 
@@ -57,6 +57,12 @@ https://github.com/ChuhuaW/SGNet.pytorch
 
 # Citation
 If you find our work useful in your research, please cite our paper:
-```bibtex
-update
-```
+
+@inproceedings{damirchi2023context,
+  title={Context-aware pedestrian trajectory prediction with multimodal transformer},
+  author={Damirchi, Haleh and Greenspan, Michael and Etemad, Ali},
+  booktitle={IEEE International Conference on Image Processing},
+  pages={2535--2539},
+  year={2023},
+  organization={IEEE}
+}
